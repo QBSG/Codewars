@@ -2,6 +2,7 @@
 codewars katas
 #This is the second kata i did for R. 
 #It was a little frustrating as I was trying to understand how to nest loops
+#You can see where I failed the first time by not initializing all of my variables.
 A child is playing with a ball on the nth floor of a tall building. The height of this floor, h, is known. 
 He drops the ball out of the window. The ball bounces (for example), to two-thirds of its height (a bounce of 0.66).
 His mother looks out of a window 1.5 meters from the ground.
